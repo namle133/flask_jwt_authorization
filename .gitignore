@@ -1,0 +1,9 @@
+# file environment
+.env
+
+database.ini
+
+.vscode
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
