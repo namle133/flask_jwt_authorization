@@ -24,6 +24,13 @@ There is some example for this:
 
 ##
 
+**example: SMTP send email**
+
+<img width="775" alt="Screenshot 2023-09-26 at 11 06 57" src="https://github.com/namle133/flask_jwt_authorization/assets/55268800/cd20c570-fd7c-4b72-8303-7a4c73c25ddc">
+
+
+##
+
 **use `DBeaver` to view and manage data of users**
 
 <img width="200" src="https://github.com/namle133/flask_jwt_authorization/assets/55268800/4f00b355-7936-42ad-b082-aa9f7a4a3ff0">
